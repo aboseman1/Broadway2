@@ -4,8 +4,12 @@ body {
   color: White;
 }
 
-.header {
+.header, #subheader {
   background-image: url("file://C:/projects/Broadway/resources/images/the-flatiron-building.png");
+}
+
+#nav {
+  color: White;
 }
 
 .footer {
@@ -21,4 +25,16 @@ body {
 
 h2, h3 {
   font-weight: bold;
+}
+
+h2 {
+  font-size: 23px;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+p {
+  font-size: 14px;
 }
