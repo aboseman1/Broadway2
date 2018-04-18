@@ -1,0 +1,16 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+  color: White;
+}
+
+.header {
+  background-image: url("file://C:/projects/Broadway/resources/images/the-flatiron-building.png");
+}
+
+.footer {
+  color: White;
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
+}
