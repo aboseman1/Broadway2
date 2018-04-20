@@ -17,6 +17,8 @@ body {
   font-size: 11px;
   background-color: dimgray;
   text-align: left;
+  list-style: none;
+  display: inline-block;
 }
 
 .process {
